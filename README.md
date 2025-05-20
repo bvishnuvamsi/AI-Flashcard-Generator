@@ -123,7 +123,5 @@ Check the "About" page in the app for more details about the application!
 
 # Happy Learning with NexLearn-AI! 
 
-License : This project is licensed under the MIT License - see the LICENSE.md file for details. (Add a LICENSE.md file if desired.)
-
-
+License : This project is licensed under the MIT License - see the LICENSE.md file for details.
 
