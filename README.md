@@ -7,11 +7,11 @@ NexLearn-AI is a web-based application built with Streamlit that harnesses the p
 ### Multi-Source Input: 
 
 Generate flashcards from:
-- YouTube Video URLs: Automatically fetches transcripts.
-- Web Article Links: Extracts text efficiently.
-- Uploaded Documents: Supports PDF, DOCX, and DOC files.
--  Pasted Text or Notes: Create flashcards from your own content.
-- Combined Sources: Merge multiple inputs into one flashcard set.
+  -  YouTube Video URLs: Automatically fetches transcripts.
+  - Web Article Links: Extracts text efficiently.
+  - Uploaded Documents: Supports PDF, DOCX, and DOC files.
+  -  Pasted Text or Notes: Create flashcards from your own content.
+  - Combined Sources: Merge multiple inputs into one flashcard set.
 - Powered Generation: Leverages Llama 3 (via Ollama) for smart, high-quality Q&A pairs.
 
 ### Interactive UI:
