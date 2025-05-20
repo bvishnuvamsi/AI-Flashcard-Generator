@@ -4,8 +4,9 @@ NexLearn-AI is a web-based application built with Streamlit that harnesses the p
 
 ## Features
 
-### Multi-Source Input: Generate flashcards from:
+### Multi-Source Input: 
 
+Generate flashcards from:
 - YouTube Video URLs: Automatically fetches transcripts.
 - Web Article Links: Extracts text efficiently.
 - Uploaded Documents: Supports PDF, DOCX, and DOC files.
@@ -20,8 +21,9 @@ NexLearn-AI is a web-based application built with Streamlit that harnesses the p
 - Customizable Output: Adjust the number of flashcards to generate (1-50).
 - Session-Based Storage: Flashcards are saved for the current session (cleared once per session, then appended).
 
-### Multiple Export Options: Download your flashcard sets as:
+### Multiple Export Options: 
 
+Download your flashcard sets as:
 - CSV (Comma-Separated Values)
 - TSV (Tab-Separated Values, Anki-compatible)
 - PDF (Printable format)
@@ -44,8 +46,10 @@ NexLearn-AI is a web-based application built with Streamlit that harnesses the p
 ## Prerequisites
 
 Python: Version 3.11.x or later.
-- Install via Homebrew on macOS: > brew install python@3.11
-- Verify with: python3.11 --version
+- Install via Homebrew on macOS:
+> brew install python@3.11
+- Verify with:
+> python3 --version
 
 ### Ollama: Required for LLM integration.
 
@@ -74,7 +78,6 @@ Python: Version 3.11.x or later.
 
 Ensure requirements.txt is up-to-date in the repository.
 > pip install -r requirements.txt
-
 
 Note: If openai-whisper installation fails due to torch, install PyTorch separately: PyTorch Installation Guide.
 
