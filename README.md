@@ -6,7 +6,7 @@ NexLearn-AI is a web-based application built with Streamlit that harnesses the p
 
 ### Multi-Source Input: 
 
-Generate flashcards from:
+- Generate flashcards from:
   -  YouTube Video URLs: Automatically fetches transcripts.
   - Web Article Links: Extracts text efficiently.
   - Uploaded Documents: Supports PDF, DOCX, and DOC files.
