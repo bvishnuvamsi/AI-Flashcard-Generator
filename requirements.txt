@@ -1,0 +1,11 @@
+streamlit
+pymupdf
+openai-whisper
+yt-dlp
+youtube-transcript-api
+trafilatura
+python-docx
+requests
+pandas
+fpdf
+ollama

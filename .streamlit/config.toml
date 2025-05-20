@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor="#2563eb"       # Your main action color (blue)
+backgroundColor="#F0F2F6"    # Light grey background for the page
+secondaryBackgroundColor="#FFFFFF" # White for containers, card backgrounds etc.
+textColor="#1f2937"          # Dark grey/black for text
+font="sans serif"             # Default sans-serif font
