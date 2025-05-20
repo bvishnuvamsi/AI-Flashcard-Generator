@@ -57,7 +57,7 @@ Python: Version 3.11.x or later.
 ## Getting Started
 
 ### Clone the Repository: 
-> git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+> git clone [https://github.com/bvishnuvamsi/AI-Flashcard-Generator.git](https://github.com/bvishnuvamsi/AI-Flashcard-Generator.git)
 
 > cd YOUR_REPOSITORY_NAME
 
