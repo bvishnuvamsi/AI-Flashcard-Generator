@@ -58,14 +58,16 @@ Python: Version 3.11.x or later.
 
 ### Clone the Repository: 
 > git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+
 > cd YOUR_REPOSITORY_NAME
 
 ### Create and Activate a Virtual Environment:
 
 > python3.11 -m venv venv
-#On Mac:
-> source venv/bin/activate  
-# On Windows: 
+#### On Mac:
+> source venv/bin/activate
+
+#### On Windows: 
 > venv\Scripts\activate
 
 ### Install Dependencies:
@@ -84,6 +86,7 @@ Place the .ttf files in the fonts folder.
 ### Run the Streamlit Application:
 
 > streamlit run app.py
+
 - Opens in your browser at http://localhost:8501 by default.
 
 ## How to Use
