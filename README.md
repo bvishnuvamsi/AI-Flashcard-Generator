@@ -124,6 +124,9 @@ We’re excited to expand NexLearn-AI with:
 
 Check the "About" page in the app for more details about the application!
 
+For more detailed Project Report, please refer to Substack Project Blog: [https://vishnuvamsibezawada.substack.com/p/nexlearn-ai-an-ai-powered-flashcard](https://vishnuvamsibezawada.substack.com/p/nexlearn-ai-an-ai-powered-flashcard) 
+
+
 # Happy Learning with NexLearn-AI! 
 
 License : This project is licensed under the MIT License - see the LICENSE.md file for details.
